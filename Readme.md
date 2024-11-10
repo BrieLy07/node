@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Proyecto en Node
 
 Proyecto básico insertando texto para imprimirlo.
 
