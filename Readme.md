@@ -13,7 +13,7 @@ Para clonar y ejecutar el proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/BrieLy07/java2.git
+   git clone https://github.com/BrieLy07/node.git
 
 2. cd tu_repositorio
     ```bash
